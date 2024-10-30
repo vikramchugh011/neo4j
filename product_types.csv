@@ -1,0 +1,44 @@
+Product_Type_Abb,Product_Type,Categories,Description
+YS,Sugar free,"Chocolate, Compound","Used to produce chocolates and compounds without sugar, often catering to health-conscious consumers or diabetics."
+YP,icecoating premium,"Chocolate, Compound","A high-quality chocolate or compound coating, providing premium texture and adhesion for ice creams."
+YY,icecoating,"Chocolate, Compound","A standard coating used for ice creams, ensuring good coverage with a smooth finish."
+CK,choc. max 5% coconut oil,"Chocolate, Compound","Chocolate with a creamy texture, containing up to 5% coconut oil to enhance flavor and mouthfeel."
+CS,choc without added sugar,Chocolate,"Chocolate formulated with alternative sweeteners, offering the same taste experience without added sugar."
+CH,chocolate,Chocolate,"General-purpose chocolate used across confectionery, coatings, and fillings."
+CR,choc > 5% fat replaced,Chocolate,Chocolate with more than 5% fat replaced to achieve lower fat content without compromising flavor.
+CV,choc max 5% fat,Chocolate,"Chocolate with fat content capped at 5%, often used in health-focused products."
+GI,gianduja,Chocolate,A chocolate-hazelnut blend commonly used in pralines and spreads.
+IL,compound lauric,Compound,"Lauric-based compound with quick setting properties, ideal for coatings and fillings."
+IM,compound mixed,Compound,A blend of different fat sources for versatility in confectionery applications.
+IN,compound non-lauric,Compound,"Non-lauric compound with stable fat content, suitable for a variety of baked goods and fillings."
+VS,vegetable coating WAS,Compound,"Vegetable-based compound coating, often used as a substitute for chocolate in economical applications."
+IS,compound HPKS,Compound,"High-performance compound with enhanced heat resistance, ideal for tropical climates."
+FL,filling lauric,Compound,"Filling made from lauric fats, providing a quick-setting and creamy texture."
+FW,filling waterbased,Sweets Specialities,Water-based filling used for lightweight confectionery and pastries.
+FS,filling without added sugar,Sweets Specialities,A sugar-free filling designed for healthy confectionery or dietary products.
+FN,filling non-lauric,Sweets Specialities,"Filling made without lauric fats, providing a softer, more stable texture."
+NL,pure nut meal,Sweets Specialities,"A finely ground nut meal used in fillings, pralines, and baked goods."
+NR,nuts plus oil,Sweets Specialities,Nut blends with added oil for smooth texture in spreads and fillings.
+NA,nuts with added sugar,Sweets Specialities,"Sweetened nut blends for confectionery applications, especially in pralines."
+NP,pure nut paste,Sweets Specialities,"Nut paste used in premium spreads, fillings, and pralines."
+NU,pure whole nuts and nut pieces,Sweets Specialities,Whole nuts or pieces used in chocolates and premium confectionery.
+PR,praline paste,Sweets Specialities,A smooth hazelnut-based paste used in pralines and confectionery.
+PW,paste waterbased,Sweets Specialities,Water-based paste used in low-fat applications such as spreads.
+FM,filling mixed,Sweets Specialities,A mixed filling combining different ingredients for unique textures and flavors.
+CO,sugar confectionery,Sweets Specialities,Candies and sweets primarily made from sugar.
+TO,topping,Sweets Specialities,"Decorative toppings for cakes, ice creams, and pastries."
+JW,jelly waterbased,Sweets Specialities,Water-based jelly used in confectionery and pastries.
+RA,raw material,Sweets Specialities,Basic ingredients used in confectionery production.
+GA,Cocoa nibs with added sugar,Sweets Specialities,Sweetened cocoa nibs used in premium chocolate and bakery products.
+FR,flavor,Sweets Specialities,Concentrated flavors used in confectionery and baked goods.
+FA,filling alcohol,Sweets Specialities,Alcohol-infused fillings for pralines and specialty chocolates.
+PC,Powder cocoa,Cocoa,Finely ground cocoa powder used in baking and chocolate manufacturing.
+CC,cake cocoa,Cocoa,Cocoa powder specifically formulated for baking cakes.
+DC,Dutch cocoa,Cocoa,Cocoa powder processed with alkali for a milder flavor and darker color.
+BC,Butter cocoa,Cocoa,Cocoa butter used as a key ingredient in chocolate and cosmetics.
+LC,Liquor cocoa,Cocoa,Cocoa liquor used in the production of chocolate.
+TC,Beans cocoa,Cocoa,Whole cocoa beans used in chocolate production or sold as nibs.
+NC,Natural cocoa,Cocoa,Unprocessed cocoa powder retaining its natural flavor.
+GC,grains (nibs) cocoa,Cocoa,Cocoa nibs used in chocolate production or as toppings.
+MA,marcipan,,Almond-based paste used in confectionery and decorations.
+MK,Marketing Materials,,Promotional materials to support product sales.

@@ -1,0 +1,50 @@
+Moulding_Type_Abb,Moulding_Type,Segments,Comment
+LIQ,Liquid,"Bakery and Pastry, Confectionary, Dairy and Drink, Ice cream and Desserts","Often used in industrial processes for enrobing, glazing, or as an ingredient in making confections, pastries, or filled chocolates."
+EAS,Easymelt,"Bakery and Pastry, Confectionary, Ice cream and Desserts","Designed to melt quickly and uniformly, often used in coatings or fillings."
+BUT,buttons,"Bakery and Pastry, Confectionary, Ice cream and Desserts","Small, round pieces of chocolate used for easy melting or as inclusions in cookies, cakes, or muffins."
+DRO,Drops / Chips,"Bakery and Pastry, Confectionary, Ice cream and Desserts","Small, round pieces of chocolate used for easy melting or as inclusions in cookies, cakes, or muffins."
+CAT,Callets,"Bakery and Pastry, Confectionary, Ice cream and Desserts","Small, round pieces of chocolate used for easy melting or as inclusions in cookies, cakes, or muffins."
+BLO,Block,"Bakery and Pastry, Confectionary, Dairy and Drink, Ice cream and Desserts","Solid blocks of chocolate, typically melted down for use in recipes or for tempering."
+BLM,block medium up to 2.5 kg,"Bakery and Pastry, Confectionary, Ice cream and Desserts","Medium blocks used for melting, tempering, and further processing."
+BLL,block large up to 5 kg,"Bakery and Pastry, Confectionary","Large blocks used for melting, tempering, and further processing."
+FLF,Flakes frozen,Ice cream and Desserts,"Thin, frozen flakes used in decorating frozen desserts or as a quick-melting topping."
+CON,container,"Bakery and Pastry, Confectionary, Ice cream and Desserts",Bulk liquid or solid chocolate used in large-scale production.
+BUL,bucket/box over 15 kg,"Bakery and Pastry, Confectionary, Dairy and Drink, Ice cream and Desserts",Bulk liquid or solid chocolate used in large-scale production.
+BUM,bucket/box up to 15 kg,"Bakery and Pastry, Confectionary, Dairy and Drink, Ice cream and Desserts",Bulk liquid or solid chocolate used in small-scale production.
+BUM,bucket/box up to 15 kg,"Bakery and Pastry, Confectionary, Dairy and Drink, Ice cream and Desserts",Bulk liquid or solid chocolate used in small-scale production.
+COH,container hoyer,"Bakery and Pastry, Confectionary, Dairy and Drink, Ice cream and Desserts",Bulk liquid or solid chocolate used in large-scale production.
+POH,powder high cost,"Bakery and Pastry, Dairy and Drink, Ice cream and Desserts","Cocoa powder used for flavoring in drinks, baking, and fillings."
+POM,powder medium cost,"Bakery and Pastry, Dairy and Drink, Ice cream and Desserts","Cocoa powder used for flavoring in drinks, baking, and fillings."
+NAP,napolitains,"Confectionary, Ice cream and Desserts","Small chocolate squares, often served with coffee or used as after-dinner treats."
+BSM,blossoms,"Bakery and Pastry, Ice cream and Desserts","Thin curls of chocolate used to garnish cakes, pastries, and ice cream."
+CUM,Cups moulded,"Confectionary, Ice cream and Desserts","Pre-moulded chocolate cups, used to fill with ganache or mousse for small desserts."
+ODC,Open decorations,"Bakery and Pastry, Confectionary","Decorative pieces used on cakes, pastries, or chocolates for added visual appeal."
+PRE,Plaques round edged,"Bakery and Pastry, Confectionary","Chocolate plaques used as decorative elements on cakes, pastries, and chocolates."
+PSE,Plaques square edged,"Bakery and Pastry, Confectionary","Chocolate plaques used as decorative elements on cakes, pastries, and chocolates."
+SHA,shavings,"Bakery and Pastry, Ice cream and Desserts","Thin shavings used for decoration on cakes, ice creams, and desserts."
+PIS,Pistoles,"Bakery and Pastry, Confectionary, Ice cream and Desserts","Disc-shaped chocolates used for melting in recipes, tempering, or inclusions."
+TBT,tablet,"Bakery and Pastry, Confectionary, Ice cream and Desserts","Standard chocolate bars, used for retail or as a base for melting and processing."
+GRD,Grids,"Bakery and Pastry, Ice cream and Desserts","Thin chocolate pieces, often used for garnishing and decoration on cakes, pastries, or frozen desserts."
+NDL,Needles,"Bakery and Pastry, Ice cream and Desserts","Thin chocolate pieces, often used for garnishing and decoration on cakes, pastries, or frozen desserts."
+SLC,slices,"Bakery and Pastry, Ice cream and Desserts","Thin chocolate pieces, often used for garnishing and decoration on cakes, pastries, or frozen desserts."
+TBB,sticks big 28 & 38 cm,"Bakery and Pastry, Ice cream and Desserts",Chocolate sticks used for decorating or as part of layered desserts.
+TBS,sticks small 7.8  cm,"Bakery and Pastry, Ice cream and Desserts",Chocolate sticks used for decorating or as part of layered desserts.
+GRL,granella,"Bakery and Pastry, Ice cream and Desserts",Small granules of chocolate used in baking or as inclusions in ice cream and pastries.
+GRA,grani,"Bakery and Pastry, Ice cream and Desserts",Small granules of chocolate used in baking or as inclusions in ice cream and pastries.
+VER,Vermicelli,"Bakery and Pastry, Ice cream and Desserts","Fine strands of chocolate, often used as decorations or for textural contrast in desserts."
+VSN,vermicelli/splitter not shiny,"Bakery and Pastry, Ice cream and Desserts","Fine strands of chocolate, often used as decorations or for textural contrast in desserts."
+VSM,vermicelli/splitter medium,"Bakery and Pastry, Ice cream and Desserts","Fine strands of chocolate, often used as decorations or for textural contrast in desserts."
+VSH,vermicelli/splitter high cost,"Bakery and Pastry, Ice cream and Desserts","Fine strands of chocolate, often used as decorations or for textural contrast in desserts."
+VSL,vermicelli/splitter low cost,"Bakery and Pastry, Ice cream and Desserts","Fine strands of chocolate, often used as decorations or for textural contrast in desserts."
+DRL,drops up to 10000 / kg,"Bakery and Pastry, Ice cream and Desserts",Small chocolate pieces used in mass production of baked goods like cookies or muffins.
+BAS,bag up to 5 kg,"Bakery and Pastry, Confectionary, Dairy and Drink, Ice cream and Desserts",Small packaging for artisanal use in small-scale production.
+BAB,big bags,"Bakery and Pastry, Confectionary, Ice cream and Desserts",Large bulk packaging for industrial use in large-scale production.
+GRN,granulated,"Bakery and Pastry, Dairy and Drink, Ice cream and Desserts","Granulated chocolate used in beverages, baking, or as inclusions in frozen desserts."
+CAL,callets over 1.5 kg,"Bakery and Pastry, Ice cream and Desserts","Chocolate pieces, typically used for premium decorative applications."
+CAS,callets up to 1.5 kg,"Bakery and Pastry, Ice cream and Desserts","Chocolate pieces, typically used for premium decorative applications."
+HOB,truffle shells,,Hollow chocolate shells used to make filled truffles and other filled confections.
+SCA,shiny callets,"Bakery and Pastry, Confectionary, Ice cream and Desserts","High-gloss chocolate pieces, typically used for premium decorative applications."
+SPL,Splitters,"Bakery and Pastry, Confectionary, Ice cream and Desserts","High-gloss chocolate pieces, typically used for premium decorative applications."
+PEN,pencils,"Bakery and Pastry, Ice cream and Desserts","Thin, pencil-shaped chocolate used for decoration on cakes or as part of a dessert presentation."
+DE3,Decorations 3D,"Bakery and Pastry, Ice cream and Desserts",Intricate 3D chocolate shapes used for high-end cake decorations or plated desserts.
+CKR,Regular Chunk,"Bakery and Pastry, Ice cream and Desserts",Larger chunks used in baking or as inclusions in ice creams and desserts.

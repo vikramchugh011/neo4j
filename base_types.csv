@@ -1,0 +1,49 @@
+Base_Abb,Base,Categories,Description
+K,Coloured,"Chocolate, Compounds, Sweets Specialities","Coloured chocolates or coatings, often used for decorative purposes in confectionery."
+N,Nuts,"Chocolate, Compounds, Sweets Specialities","General nuts used as inclusions or toppings, adding crunch and flavor to products."
+P,Peanuts,"Chocolate, Compounds, Sweets Specialities",Peanuts used in chocolates and compounds for texture and taste enhancement.
+A,Acidified,"Chocolate, Compounds","Acidified chocolates or compounds, often used to provide a tangy flavor."
+D,Dark,"Chocolate, Compounds","High-cocoa dark chocolates, providing intense flavor with low sugar content."
+E,Flavoured based on milk,"Chocolate, Compounds","Chocolates or compounds with added milk flavors, giving a creamy taste."
+F,Flavoured based on white,"Chocolate, Compounds",White chocolates flavored with additional ingredients like vanilla or fruit.
+G,Flavoured based on dark,"Chocolate, Compounds","Dark chocolate with added flavors, such as fruit or spice extracts."
+M,Milk,"Chocolate, Compounds","Milk chocolates with a smooth and creamy taste, used widely in confectionery."
+O,Nuts other than hazelnuts/almonds,"Chocolate, Compounds","Other nuts (e.g., pistachios or cashews) used in chocolates and compounds."
+R,Ruby,"Chocolate, Compounds",Ruby chocolate with a unique pink hue and fruity flavor.
+T,Not Applicable,"Chocolate, Compounds",Used when no specific base type is required.
+W,White,"Chocolate, Compounds","White chocolate made from cocoa butter, sugar, and milk solids."
+X,Mix,"Chocolate, Compounds",A mixture of multiple base types or flavors in a single product.
+HD,High flavoured deodorized CB,Compounds,"Deodorized cocoa butter with enhanced flavor, used in premium compounds."
+HP,High flavour not deodorized CB,Compounds,"Cocoa butter with full flavor, not deodorized, for intense chocolate taste."
+FA,Coloured a/o Flavoured Almonds,Sweets Specialities,"Almonds with added colors or flavors, used for premium sweets."
+FP,Coloured a/o Flavoured Pecans,Sweets Specialities,"Pecans with flavors or colors, ideal for gourmet confectionery."
+H,Flavoured based on nuts,Sweets Specialities,Products flavored with nut-based ingredients like hazelnut or almond paste.
+NA,Almonds,Sweets Specialities,"Whole or chopped almonds, commonly used in premium confectionery."
+NH,Hazelnuts,Sweets Specialities,Hazelnuts used as inclusions or toppings in chocolates and sweets.
+OC,Cashews,Sweets Specialities,Cashews providing creamy texture and flavor in sweets and chocolates.
+OI,Pistachios,Sweets Specialities,Pistachios used for flavor and vibrant color in premium sweets.
+OM,Macadamias,Sweets Specialities,"Macadamia nuts, known for their buttery flavor, used in high-end products."
+OP,Pecans,Sweets Specialities,Pecans used for rich flavor in chocolates and sweets.
+OR,Nuts other,Sweets Specialities,Other nuts like walnuts used for diverse flavor profiles in sweets.
+5,Bev. Cappuccino,Sweets Specialities,Instant cappuccino blends used in vending or specialty beverages.
+9,VM Choco,Sweets Specialities,Chocolate-flavored beverage mixes for vending machines.
+11,Bev. Pure Milk,Sweets Specialities,Pure milk powder or concentrates used in beverages.
+15,Bev. Full fat cocoa >15%,Sweets Specialities,Beverages with full-fat cocoa content greater than 15%.
+16,Bev. Flavoured,Sweets Specialities,Flavored beverage powders for quick preparation.
+17,Bev. Topping (<40% milk),Sweets Specialities,"Toppings with less than 40% milk content, used in beverages."
+18,Bev. Topping (>40% milk),Sweets Specialities,Toppings with more than 40% milk content for rich beverages.
+19,Bev. Whitener,Sweets Specialities,Whitener powders for coffee and tea.
+20,Bev. Latte Drinks,Sweets Specialities,Latte mixes used for quick-preparation drinks.
+21,Bev. Instant,Sweets Specialities,Instant beverage powders for easy preparation.
+H2,High flavoured alcalised,Sweets Specialities,Highly flavored cocoa processed with alkali for smooth taste.
+NN,Mix hazelnuts and almonds,Sweets Specialities,A blend of hazelnuts and almonds used in premium products.
+OO,Mix contain nut o/than ha/al,Sweets Specialities,Nut mixes excluding hazelnuts and almonds.
+S,Seeds,Sweets Specialities,Seeds like sesame or sunflower used in sweets and toppings.
+13,Bev. Fat-reduced cocoa <15%,Sweets Specialities,Cocoa beverages with less than 15% fat content.
+14,Bev. Fat-reduced cocoa >15%,Sweets Specialities,Cocoa beverages with more than 15% fat content.
+C,Cacao Fruit,Cocoa,"Products derived from the whole cacao fruit, including pulp and seeds."
+DE,deodorised cocoa butter,Cocoa,"Cocoa butter with neutral flavor, used in white chocolates and cosmetics."
+PP,not deodorised cocoa butter,Cocoa,Cocoa butter retaining its original aroma and flavor.
+RE,Refined,Cocoa,Cocoa products refined for smooth texture and consistent taste.
+1,Natural,Cocoa,"Unprocessed cocoa retaining its raw, natural characteristics."
+2,Alcalised,Cocoa,Cocoa processed with alkali to reduce acidity and enhance flavor.
